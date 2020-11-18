@@ -1,6 +1,7 @@
 # xd-es-cli
 
 es脚手架工具  =>  兼容各个浏览器
+A CLI for ES => Compatible browser
 
 <br>
 
