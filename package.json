@@ -1,6 +1,6 @@
 {
   "name": "xd-es-cli",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "es脚手架工具",
   "bin": {
     "xd-es-cli": "./bin/www.js"
