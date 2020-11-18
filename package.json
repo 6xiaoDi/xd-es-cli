@@ -1,6 +1,6 @@
 {
   "name": "xd-es-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "es脚手架工具",
   "bin": {
     "xd-es-cli": "./bin/www.js"
@@ -19,7 +19,7 @@
   ],
   "author": "6xd",
   "license": "MIT",
-  "homepage": "https://github.com/6xiaoDi/xd-es-cli#readme",
+  "homepage": "https://blog.csdn.net/u013946061",
   "bugs": {
     "url": "https://github.com/6xiaoDi/xd-es-cli/issues"
   },
