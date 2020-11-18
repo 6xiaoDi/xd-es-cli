@@ -1,0 +1,33 @@
+{
+  "name": "xd-es-cli",
+  "version": "1.0.0",
+  "description": "es脚手架工具",
+  "bin": {
+    "xd-es-cli": "./bin/www.js"
+  },
+  "main": "./bin/www.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/6xiaoDi/xd-es-cli.git"
+  },
+  "keywords": [
+    "es",
+    "cli"
+  ],
+  "author": "6xd",
+  "license": "MIT",
+  "homepage": "https://github.com/6xiaoDi/xd-es-cli#readme",
+  "bugs": {
+    "url": "https://github.com/6xiaoDi/xd-es-cli/issues"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^6.2.0",
+    "download-git-repo": "^3.0.2",
+    "inquirer": "^7.3.3",
+    "ora": "^5.1.0"
+  }
+}
